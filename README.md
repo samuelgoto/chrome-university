@@ -165,21 +165,28 @@ Here is the agenda for past editions.
         </tr>
         <tr>
             <td>03:30pm</td>
-            <td>C++ Memory (45 mins)</td>
-            <td></td>
+            <td rowspan=2>C++ Memory (45 mins)</td>
+            <td>Mobile 101 (30 mins)</td>
+        </tr>
+        <tr>
+            <td>04:00pm</td>
+            <td rowspan=2>Desktop 101 (30 mins)</td>
         </tr>
         <tr>
             <td>04:15pm</td>
-            <td>Security 201: Life of a Vulnerability (45 mins)</td>
-            <td></td>
+            <td rowspan=2>Security 201: Life of a Vulnerability (45 mins)</td>
         </tr>
         <tr>
-            <td>04:45pm</td>
-            <td colspan=2>Break (15 mins)</td>
+            <td>04:30pm</td>
+            <td>WebView 101 (30 mins)</td>
         </tr>
         <tr>
             <td>05:00pm</td>
-            <td colspan=2>Path to Chrome (60 mins)</td>
+            <td colspan=2>Break (15 mins)</td>
+        </tr>
+        <tr>
+            <td>05:15pm</td>
+            <td colspan=2>Path to Chrome (45 mins)</td>
         </tr>
         <tr>
             <td>06:00pm</td>
