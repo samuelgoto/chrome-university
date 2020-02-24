@@ -16,8 +16,8 @@ Here is the agenda for past editions.
     <thead>
         <tr>
             <th>Time</th>
-            <th>Track 1</th>
-            <th>Track 2</th>
+            <th>Browser</th>
+            <th>OS</th>
         </tr>
     </thead>
     <tbody>
@@ -36,21 +36,28 @@ Here is the agenda for past editions.
         <tr>
             <td>10:45am</td>
             <td>The Anatomy of a Browser (45 mins)</td>
-            <td></td>
+            <td>HW Backed Security and Verified Boot 101 (45 mins)</td>
         </tr>
         <tr>
             <td>11:30am</td>
             <td colspan=2>Lunch (45 mins)</td>
         </tr>
         <tr>
-            <td>12:15am</td>
-            <td>Life of a Pixel (45 mins)</td>
-            <td></td>
+            <td>12:15pm</td>
+            <td rowspan=2>Life of a Pixel (45 mins)</td>
+            <td>Graphics 101 (30 mins)</td>
+        </tr>
+        <tr>
+            <td>12:45pm</td>
+            <td rowspan=2>Virtual Machines 101 (30 mins)</td>
         </tr>
         <tr>
             <td>01:00pm</td>
-            <td>History of the Web (45 mins)</td>
-            <td></td>
+            <td rowspan=2>History of the Web (45 mins)</td>
+        </tr>
+        <tr>
+            <td>01:15pm</td>
+            <td>ChromeOS Sound 101 (30 mins)</td>
         </tr>
         <tr>
             <td>01:45pm</td>
@@ -59,17 +66,17 @@ Here is the agenda for past editions.
         <tr>
             <td>02:00pm</td>
             <td>Life of a Navigation (30 mins)</td>
-            <td></td>
+            <td>Apps Platforms (30 mins)</td>
         </tr>
         <tr>
             <td>02:30pm</td>
             <td>Life of a Release (30 mins)</td>
-            <td></td>
+            <td>Input 101 (30 mins)</td>
         </tr>
         <tr>
             <td>03:00pm</td>
             <td>Life of a Process (30 mins)</td>
-            <td></td>
+            <td>Business (30 mins)</td>
         </tr>
         <tr>
             <td>03:30pm</td>
@@ -78,12 +85,12 @@ Here is the agenda for past editions.
         <tr>
             <td>03:45pm</td>
             <td>IPC101 (30 mins)</td>
-            <td></td>
+            <td>Biometrics (30 mins)</td>
         </tr>
         <tr>
             <td>04:15pm</td>
             <td>Anatomy of a Browser 201 (30 mins)</td>
-            <td></td>
+            <td>Sensors (30 mins)</td>
         </tr>
         <tr>
             <td>04:45pm</td>
