@@ -16,8 +16,8 @@ Here is the agenda for past editions.
     <thead>
         <tr>
             <th>Time</th>
-            <th>Browser</th>
-            <th>OS</th>
+            <th>Track 1</th>
+            <th>Track 2</th>
         </tr>
     </thead>
     <tbody>
@@ -106,8 +106,8 @@ Here is the agenda for past editions.
     <thead>
         <tr>
             <th>Time</th>
-            <th>Browser</th>
-            <th>OS</th>
+            <th>Track 1</th>
+            <th>Track 2</th>
         </tr>
     </thead>
     <tbody>
