@@ -44,7 +44,7 @@ Here is the agenda for past editions.
         </tr>
         <tr>
             <td>12:15pm</td>
-            <td rowspan=2>Life of a Pixel (45 mins)</td>
+            <td rowspan=2><a href="https://www.youtube.com/watch?v=m-J-tbAlFic&list=PLNYkxOF6rcICgS7eFJrGDhMBwWtdTgzpx&index=6">Life of a Pixel</a> (45 mins)</td>
             <td>Graphics 101 (30 mins)</td>
         </tr>
         <tr>
@@ -53,7 +53,7 @@ Here is the agenda for past editions.
         </tr>
         <tr>
             <td>01:00pm</td>
-            <td rowspan=2>History of the Web (45 mins)</td>
+            <td rowspan=2><a href="https://www.youtube.com/watch?v=kNzoswFIU9M&list=PLNYkxOF6rcICgS7eFJrGDhMBwWtdTgzpx&index=1">History of the Web</a> (45 mins)</td>
         </tr>
         <tr>
             <td>01:15pm</td>
@@ -65,17 +65,17 @@ Here is the agenda for past editions.
         </tr>
         <tr>
             <td>02:00pm</td>
-            <td>Life of a Navigation (30 mins)</td>
+            <td><a href="https://www.youtube.com/watch?v=OFIvyc1y1ws&list=PLNYkxOF6rcICgS7eFJrGDhMBwWtdTgzpx&index=5">Life of a Navigation</a> (30 mins)</td>
             <td>Apps Platforms (30 mins)</td>
         </tr>
         <tr>
             <td>02:30pm</td>
-            <td>Life of a Release (30 mins)</td>
+            <td><a href="https://www.youtube.com/watch?v=gCW5Pvx2H3U&list=PLNYkxOF6rcICgS7eFJrGDhMBwWtdTgzpx&index=4">Life of a Release</a> (30 mins)</td>
             <td>Input 101 (30 mins)</td>
         </tr>
         <tr>
             <td>03:00pm</td>
-            <td>Life of a Process (30 mins)</td>
+            <td><a href="https://www.youtube.com/watch?v=5im7SGmJxnA&list=PLNYkxOF6rcICgS7eFJrGDhMBwWtdTgzpx&index=7">Life of a Process</a> (30 mins)</td>
             <td>Business (30 mins)</td>
         </tr>
         <tr>
@@ -84,12 +84,12 @@ Here is the agenda for past editions.
         </tr>
         <tr>
             <td>03:45pm</td>
-            <td>IPC101 (30 mins)</td>
+            <td><a href="https://www.youtube.com/watch?v=o-nR7enXzII&list=PLNYkxOF6rcICgS7eFJrGDhMBwWtdTgzpx&index=8">IPC 101</a> (30 mins)</td>
             <td>Biometrics (30 mins)</td>
         </tr>
         <tr>
             <td>04:15pm</td>
-            <td>Anatomy of a Browser 201 (30 mins)</td>
+            <td><a href="https://www.youtube.com/watch?v=u7berRU9Qys&list=PLNYkxOF6rcICgS7eFJrGDhMBwWtdTgzpx&index=3">Anatomy of a Browser 201</a> (30 mins)</td>
             <td>Sensors (30 mins)</td>
         </tr>
         <tr>
@@ -120,17 +120,17 @@ Here is the agenda for past editions.
     <tbody>
         <tr>
             <td>10:00am</td>
-            <td>Life of a Commit (30 mins)</td>
+            <td><a href="https://www.youtube.com/watch?v=_oK7PeeLxYo&list=PLNYkxOF6rcICgS7eFJrGDhMBwWtdTgzpx&index=9">Life of a Commit</a> (30 mins)</td>
             <td>Schematics as a Second Language (30 mins)</td>
         </tr>
         <tr>
             <td>10:30am</td>
-            <td>C++ As A Second Language (30 mins)</td>
+            <td><a href="https://www.youtube.com/watch?v=cN9c_JyvL1A&list=PLNYkxOF6rcICgS7eFJrGDhMBwWtdTgzpx&index=10">C++ As A Second Language</a> (30 mins)</td>
             <td>Infrastructure 101 (30 mins)</td>
         </tr>
         <tr>
             <td>11:00am</td>
-            <td>Life of a Script (30 mins)</td>
+            <td><a href="https://www.youtube.com/watch?v=3bVcTFOKRyo&list=PLNYkxOF6rcICgS7eFJrGDhMBwWtdTgzpx&index=11">Life of a Script</a> (30 mins)</td>
             <td>Build (30 mins)</td>
         </tr>
         <tr>
@@ -139,13 +139,13 @@ Here is the agenda for past editions.
         </tr>
         <tr>
             <td>12:15pm</td>
-            <td>Security 101 (45 mins)</td>
+            <td><a href="https://www.youtube.com/watch?v=jqQdgQKYq7E&list=PLNYkxOF6rcICgS7eFJrGDhMBwWtdTgzpx&index=12">Security 101</a> (45 mins)</td>
             <td>Suport 101 (45 mins)</td>
         </tr>
         <tr>
             <td>01:00pm</td>
-            <td>The History of WebAssemnbly (30 mins)</td>
-            <td>Life of a Codec (30 mins)</td>
+            <td><a href="https://www.youtube.com/watch?v=6r0NKEQqkz0&list=PLNYkxOF6rcICgS7eFJrGDhMBwWtdTgzpx&index=14">The History of WebAssemnbly</a> (30 mins)</td>
+            <td><a href="https://www.youtube.com/watch?v=xqJjyUpYEw0&list=PLNYkxOF6rcICgS7eFJrGDhMBwWtdTgzpx&index=17">Life of a Codec</a> (30 mins)</td>
         </tr>
         <tr>
             <td>01:30pm</td>
@@ -153,7 +153,7 @@ Here is the agenda for past editions.
         </tr>
         <tr>
             <td>01:45pm</td>
-            <td>Testing 101 (30 mins)</td>
+            <td><a href="https://www.youtube.com/watch?v=mizZc61rFUk&list=PLNYkxOF6rcICgS7eFJrGDhMBwWtdTgzpx&index=21">Testing 101</a> (30 mins)</td>
             <td>Marketing 101 (30 mins)</td>
         </tr>
         <tr>
@@ -172,7 +172,7 @@ Here is the agenda for past editions.
         </tr>
         <tr>
             <td>03:30pm</td>
-            <td rowspan=2>C++ Memory (45 mins)</td>
+            <td rowspan=2><a href="https://www.youtube.com/watch?v=UNJrgsQXvCA&list=PLNYkxOF6rcICgS7eFJrGDhMBwWtdTgzpx&index=15">C++ Memory</a> (45 mins)</td>
             <td>Mobile 101 (30 mins)</td>
         </tr>
         <tr>
@@ -185,7 +185,7 @@ Here is the agenda for past editions.
         </tr>
         <tr>
             <td>04:30pm</td>
-            <td>WebView 101 (30 mins)</td>
+            <td><a href="https://www.youtube.com/watch?v=qMvbtcbEkDU&list=PLNYkxOF6rcICgS7eFJrGDhMBwWtdTgzpx&index=16">WebView 101</a> (30 mins)</td>
         </tr>
         <tr>
             <td>05:00pm</td>
