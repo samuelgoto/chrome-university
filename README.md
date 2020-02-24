@@ -133,12 +133,12 @@ Here is the agenda for past editions.
         <tr>
             <td>12:15pm</td>
             <td>Security 101 (45 mins)</td>
-            <td></td>
+            <td>Suport 101 (45 mins)</td>
         </tr>
         <tr>
             <td>01:00pm</td>
             <td>The History of WebAssemnbly (30 mins)</td>
-            <td></td>
+            <td>Life of a Codec (30 mins)</td>
         </tr>
         <tr>
             <td>01:30pm</td>
@@ -147,7 +147,7 @@ Here is the agenda for past editions.
         <tr>
             <td>01:45pm</td>
             <td>Testing 101 (30 mins)</td>
-            <td></td>
+            <td>Marketing 101 (30 mins)</td>
         </tr>
         <tr>
             <td>02:15pm</td>
@@ -157,7 +157,7 @@ Here is the agenda for past editions.
         <tr>
             <td>02:45pm</td>
             <td>Privacy 101 (30 mins)</td>
-            <td></td>
+            <td>Metrics 101 (30 mins)</td>
         </tr>
         <tr>
             <td>03:15pm</td>
