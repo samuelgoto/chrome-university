@@ -113,25 +113,25 @@ Here is the agenda for past editions.
     <thead>
         <tr>
             <th>Time</th>
-            <th>Track 1</th>
-            <th>Track 2</th>
+            <th>Browser</th>
+            <th>OS</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td>10:00am</td>
             <td>Life of a Commit (30 mins)</td>
-            <td></td>
+            <td>Schematics as a Second Language (30 mins)</td>
         </tr>
         <tr>
             <td>10:30am</td>
             <td>C++ As A Second Language (30 mins)</td>
-            <td></td>
+            <td>Infrastructure 101 (30 mins)</td>
         </tr>
         <tr>
             <td>11:00am</td>
             <td>Life of a Script (30 mins)</td>
-            <td></td>
+            <td>Build (30 mins)</td>
         </tr>
         <tr>
             <td>11:30am</td>
@@ -159,7 +159,7 @@ Here is the agenda for past editions.
         <tr>
             <td>02:15pm</td>
             <td>Speed 101 (30 mins)</td>
-            <td></td>
+            <td>Overlays and Workflows (30 mins)</td>
         </tr>
         <tr>
             <td>02:45pm</td>
