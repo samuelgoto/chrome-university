@@ -35,7 +35,7 @@ Here is the agenda for past editions.
         </tr>
         <tr>
             <td>10:45am</td>
-            <td>The Anatomy of a Browser (45 mins)</td>
+            <td><a href="https://www.youtube.com/watch?v=PzzNuCk-e0Y&list=PLNYkxOF6rcICgS7eFJrGDhMBwWtdTgzpx&index=2">The Anatomy of a Browser</a> (45 mins)</td>
             <td>HW Backed Security and Verified Boot 101 (45 mins)</td>
         </tr>
         <tr>
