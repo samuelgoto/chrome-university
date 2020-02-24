@@ -181,7 +181,7 @@ Here is the agenda for past editions.
         </tr>
         <tr>
             <td>04:15pm</td>
-            <td rowspan=2>Security 201: Life of a Vulnerability (45 mins)</td>
+            <td rowspan=2><a href="https://www.youtube.com/watch?v=lv0lvJigrRw&list=PLNYkxOF6rcICgS7eFJrGDhMBwWtdTgzpx&index=13">Security 201: Life of a Vulnerability</a> (45 mins)</td>
         </tr>
         <tr>
             <td>04:30pm</td>
