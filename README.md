@@ -10,6 +10,8 @@ Here are some of the design patterns we identified.
 
 Here is the agenda for past editions.
 
+# Day 1
+
 <table>
     <thead>
         <tr>
@@ -90,6 +92,94 @@ Here is the agenda for past editions.
         <tr>
             <td>05:00pm</td>
             <td colspan=2>The Early History of Chrome (60 mins)</td>
+        </tr>
+        <tr>
+            <td>06:00pm</td>
+            <td colspan=2>Closing Remarks (5 mins)</td>
+        </tr>
+    </tbody>
+</table>
+
+# Day 2
+
+<table>
+    <thead>
+        <tr>
+            <th>Time</th>
+            <th>Browser</th>
+            <th>OS</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>10:00am</td>
+            <td>Life of a Commit (30 mins)</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>10:30am</td>
+            <td>C++ As A Second Language (30 mins)</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>11:00am</td>
+            <td>Life of a Script (30 mins)</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>11:30am</td>
+            <td colspan=2>Lunch (45 mins)</td>
+        </tr>
+        <tr>
+            <td>12:15pm</td>
+            <td>Security 101 (45 mins)</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>01:00pm</td>
+            <td>The History of WebAssemnbly (30 mins)</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>01:30pm</td>
+            <td colspan=2>Break (15 mins)</td>
+        </tr>
+        <tr>
+            <td>01:45pm</td>
+            <td>Testing 101 (30 mins)</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>02:15pm</td>
+            <td>Speed 101 (30 mins)</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>02:45pm</td>
+            <td>Privacy 101 (30 mins)</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>03:15pm</td>
+            <td colspan=2>Break (15 mins)</td>
+        </tr>
+        <tr>
+            <td>03:30pm</td>
+            <td>C++ Memory (45 mins)</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>04:15pm</td>
+            <td>Security 201: Life of a Vulnerability (45 mins)</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>04:45pm</td>
+            <td colspan=2>Break (15 mins)</td>
+        </tr>
+        <tr>
+            <td>05:00pm</td>
+            <td colspan=2>Path to Chrome (60 mins)</td>
         </tr>
         <tr>
             <td>06:00pm</td>
